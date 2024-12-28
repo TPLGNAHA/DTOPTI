@@ -13,7 +13,7 @@ Creator : Dowters
 
 Developed by : NAHA
 
-SUPPORT : https://discord.gg/cUB8rzGG
+SUPPORT : https://discord.gg/b7UBG6Yhnt
 
 Version : 1.0
 
