@@ -10,11 +10,16 @@
 
 
 Creator : Dowters
+
 Developed by : NAHA
+
 SUPPORT : https://discord.gg/cUB8rzGG
+
 Version : 1.0
 
+
 Description : 
+
 [FR]:
 Dowters Tools est actuellement à sa première version. Si vous rencontrez des bugs ou des problèmes, merci de nous les signaler avec des preuves à l'appui. 
 Toute fuite ou partage de ce produit après son achat peut entraîner un bannissement et des sanctions à vie. Ce logiciel est destiné à un usage personnel uniquement et 
